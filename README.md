@@ -21,7 +21,11 @@
 이 과제를 마친 후, 학습자는 아래를 스스로 설명할 수 있어야 한다.
 
 ## 👉 (1) MAC(Multiply-Accumulate) 연산이 무엇이고, AI에서 왜 중요한지 설명할 수 있다.   
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/4157bc7f-984a-4250-a4c9-8195d817dfca" />
+
 ## 👉 (2) 입력 패턴과 필터를 곱하고 더해서 유사도(점수)를 계산하는 원리를 설명할 수 있다.  
+<img width="1448" height="1086" alt="image" src="https://github.com/user-attachments/assets/20cd83ef-d1a0-4ccb-b9d5-9531050801d3" />
+
 ## 👉 (3) data.json의 “키 규칙/라벨 규칙”을 해석하고, 프로그램 내부에서 라벨을 표준화(정규화)하는 이유를 설명할 수 있다.  
 ## 👉 (4) 부동소수점 오차가 판정에 어떤 영향을 주는지, 그리고 허용오차(epsilon) 기반 비교 정책이 필요한 이유를 설명할 수 있다.  
 ## 👉 (5) 크기별 연산 시간을 측정하고, 패턴 크기 증가에 따른 시간 복잡도 O(N²)를 근거와 함께 설명할 수 있다.  
